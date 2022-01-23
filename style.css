@@ -1,0 +1,42 @@
+.heading {
+    color: azure;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 3px 3px 3px grey;
+}
+
+canvas {
+    box-shadow: 5px 5px 5px black;
+    border-radius: 20px;
+    width: 300%;
+    height: 300%;
+    background-color: yellowgreen;
+}
+
+h3 {
+    color: blue;
+
+}
+
+.copy_right_footer {
+    position: fixed;
+    width: 100%;
+    font-size: 20px;
+    bottom: 0;
+    font-weight: bold;
+    line-height: 3;
+    text-align: center;
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+
+.note {
+    font-size: 26px;
+    color: black;
+}
+
+body {
+    background-size: cover;
+}
